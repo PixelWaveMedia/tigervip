@@ -583,8 +583,11 @@ img {
     }
 }
 
-@media only screen and (max-width: 650px) {
-
+@media only screen and (min-width: 650px) {
+  .center {
+    width: 650px;
+    height: 105vh;
+  }
   .top_img1 img {
     width: 100%;
 }
