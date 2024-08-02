@@ -50,7 +50,9 @@ body {
 .top_img1 .btn img {
   width: 100%;
 }
-
+img {
+  width: 100%;
+}
 .center .downBtn {
     width: 100%;
     text-align: center;
